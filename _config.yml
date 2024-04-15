@@ -1,6 +1,13 @@
-theme: minima
 title: Tony's blog
 author:
   name: Tony
+  email: 
+
 description: >
   Hello, github blog!
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
